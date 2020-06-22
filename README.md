@@ -16,10 +16,10 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.github.giswangsj:wsjLib:3.0.2'
+	implementation 'com.github.giswangsj:wsjLib:3.1.3'
 }
 ```
 
 ## License
 
-`AndRatingBar` is released under the Apache License version 2.0.
+`QuickDevLib` is released under the Apache License version 2.0.
