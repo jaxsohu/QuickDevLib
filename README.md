@@ -37,6 +37,12 @@ PopupwindowUtils.showMenu(requireContext(), it, filters,
 		})
 ```
 
+##### CommonRecyclerAdapter
+
+CommonRecyclerAdapter可以方便的实现recyclerview的adapter，并且可以方便的展示加载失败页，数据为空页。适用于线性布局和流式布局。
+
+
+
 
 
 ## License
